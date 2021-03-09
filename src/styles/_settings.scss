@@ -7,7 +7,7 @@ $font-3: 'Stick', sans-serif;
 $font-4: 'Krona One', sans-serif;
 
 // charte graphique hexa
-$color-1: #FF4D5A;
+$color-1: #228B22;
 $color-2: #072142;
 $color-3:#828C96;
 $color-4: #333333;
@@ -16,7 +16,7 @@ $black: #000000;
 $white: #FFFFFF;
 
 // charte graphique rgb
-$color-1-rgb: rgb(255, 77, 90);
+$color-1-rgb: rgb(34,139,34);
 $color-2-rgb:rgb(7, 33, 66);
 $color-3-rgb:rgb(130, 140, 150);
 $color-4-rgb: rgb(51, 51, 51);
@@ -52,7 +52,7 @@ li {
 }
 a {
     text-decoration: none;
-    color: $white;
+    color: $black;
     cursor: pointer;
 }
 a.visited {
@@ -62,7 +62,7 @@ a.visited {
     display: flex;
 
     @media screen and (max-width:850px) {
-        display: block!important;
+        display: block !important;
     }
 }
 .acceuilContent, .cvContent, .portfolioContent, .contactContentent {

@@ -1,11 +1,11 @@
 import React from 'react';
 
-const P404 = () => {
+const Hobbies = () => {
     return (
         <div>
-            <h1>404 page</h1>
+            Hobbies
         </div>
     );
 };
 
-export default P404;
+export default Hobbies;

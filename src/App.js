@@ -5,7 +5,7 @@ import Accueil from "./pages/Accueil";
 import Cv from "./pages/Cv";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
-import P404 from "./pages/P404";
+import notFound from './pages/notFound';
 
 const App = () => {
   return (
@@ -16,7 +16,7 @@ const App = () => {
           <Route path="/cv" component={Cv} />
           <Route path="/portfolio" component={Portfolio} />
           <Route path="/contact" component={Contact} />
-          <Route component={P404} />
+          <Route component={notFound} />
         </Switch>
       </BrowserRouter>
     </>
