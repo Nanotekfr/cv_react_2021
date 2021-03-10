@@ -4,26 +4,26 @@ import ProgressBar from './ProgressBar';
 class Langages extends Component {
     state = {
         langages: [
-            {id: 1, value: "Html", xp: 1},
+            {id: 1, value: "Html", xp: 2},
             {id: 2, value: "Css", xp: 2},
             {id: 3, value: "Javascript", xp: 1.5},
-            {id: 4, value: "Php", xp: 2.5}
+            {id: 4, value: "Php", xp: 1.5}
         ],
         frameworks: [
-            {id: 1, value: "Bootstrap", xp: 3},
+            {id: 1, value: "Bootstrap", xp: 2},
             {id: 2, value: "Sass", xp: 0.5},
-            {id: 3, value: "React", xp: 2},
-            {id: 4, value: "Symfony", xp: 2}
+            {id: 3, value: "React", xp: 1},
+            {id: 4, value: "Symfony", xp: 1}
         ]
     }
     render() {
         let {langages, frameworks} = this.state;
         return (
-            <div className="langagesFramworks">
+            <div className="langagesFrameworks">
                 <ProgressBar
                 langages={langages}
-                className="langageDisplay"
-                title="langage"
+                className="langagesDisplay"
+                title="langages"
 
                 />
                 <ProgressBar
