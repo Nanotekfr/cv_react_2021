@@ -7,19 +7,23 @@ const AutreCompetences = () => {
             <div className="list">
                 <ul>
                     <li><i className="fas fa-check-square"></i>
-                    Anglais</li>
+                    <span>Anglais</span></li>
                     <li><i className="fas fa-check-square"></i>
-                    Github</li>
+                    <span>Github</span></li>
                     <li><i className="fas fa-check-square"></i>
-                    Methode agiles</li>
+                    <span>Methode agiles</span></li>
                     <li><i className="fas fa-check-square"></i>
-                    Methode Kanban</li>
+                    <span>Methode Kanban</span></li>
                 </ul>
                 <ul>
                     <li><i className="fas fa-check-square"></i>
-                    Photoshop</li>
+                    <span>Photoshop</span></li>
                     <li><i className="fas fa-check-square"></i>
-                    Web responsive</li>
+                    <span>Web responsive</span></li>
+                    <li><i className="fas fa-check-square"></i>
+                    <span>Web responsive</span></li>
+                    <li><i className="fas fa-check-square"></i>
+                    <span>Web responsive</span></li>
                 </ul>
             </div>
         </div>
