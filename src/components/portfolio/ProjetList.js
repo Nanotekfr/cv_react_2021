@@ -12,12 +12,12 @@ export default class ProjetList extends Component {
             {id: 4, valeur: "react"},
             {id: 5, valeur: "php"}
         ],
-        selectedRadio: 'html'
+        selectedRadio: 'javascript'
     };
 
     handleRadio = (event) => {
         let radio = event.target.value;
-        this.setState({selectedRadio: radio})
+        this.setState({selectedRadio: radio});
     }
 
     render() {
@@ -33,12 +33,12 @@ export default class ProjetList extends Component {
                                     <input
                                         type="radio"
                                         name="radio"
-                                        checked={radio.value === selectedRadio}
-                                        value={radio.value}
-                                        id={radio.value}
+                                        checked={radio.valeur === selectedRadio}
+                                        value={radio.valeur}
+                                        id={radio.valeur}
                                         onChange={this.handleRadio}
                                     />
-                                    <label htmlFor={radio.value}>{radio.value}</label>
+                                    <label htmlFor={radio.valeur}>{radio.valeur}</label>
                                 </li>
                             )
                         })

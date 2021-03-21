@@ -11,14 +11,8 @@ export default class Projet extends Component {
         })
     }
 
-   /*  handleExit = () => {
-        this.setState({
-            showInfo:!this.state.showInfo
-        })
-    } */
-
     render() {
-        let {name, langagesIcons, source, info, picture} = this.props.item;
+        let {name, langagesIcons, source, lien, info, picture} = this.props.item;
 
         return (
             <div className="projet">
@@ -36,9 +30,12 @@ export default class Projet extends Component {
                 {
                     this.state.showInfo && (
                         <div className="showInfos">
-                            <div className="InfosContent">
+                            <div className="infosContent">
                                 <div className="head">
                                     <h2>{name}</h2>
+                                    <div className="lienSite">
+                                        <a href={lien} rel="noopener noreferrer" className="button" target="_blank"> Lien vers le site</a>
+                                    </div>
                                     <div className="sourceCode">
                                         <a href={source} rel="noopener noreferrer" className="button" target="_blank">Code sources</a>
                                     </div>

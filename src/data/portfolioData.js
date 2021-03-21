@@ -1,11 +1,12 @@
 export const portfolioData = [
     {
         id: 1,
-        name: 'Lorem.com',
+        name: 'Ma carte de visite',
         langages: ['javascript','css'],
         langagesIcons: ['fab fa-js','fab fa-css3'],
-        source: '#',
-        info: 'Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.',
+        source: 'https://github.com/Nanotekfr/cv_react_2021',
+        lien:"#",
+        info: 'Id aliqua elit. Nulla deserunt pariatur deserunt aliquip. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.',
         picture: './media/projetImg/projet1.jpeg'
     },
     {
