@@ -158,7 +158,8 @@
           width: 600px;
           margin: 0 auto;
           color: $color-1;
-          background: $color-2;
+          background: url("../../media/fond_contact.jpg")
+          no-repeat center top/cover;
           border-radius: $borderRadius;
           padding: 2rem;
           box-shadow: 0 10px 10px #333;
@@ -180,6 +181,7 @@
         h2 {
           text-align: left;
           margin-bottom: 1rem;
+          color: $white;
         }
         .button {
           cursor: pointer;

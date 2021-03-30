@@ -19,9 +19,9 @@ const AutreCompetences = () => {
                     <li><i className="fas fa-check-square"></i>
                     <span>Photoshop</span></li>
                     <li><i className="fas fa-check-square"></i>
-                    <span>Web responsive</span></li>
+                    <span>Github Action</span></li>
                     <li><i className="fas fa-check-square"></i>
-                    <span>Web responsive</span></li>
+                    <span>Git flow</span></li>
                     <li><i className="fas fa-check-square"></i>
                     <span>Web responsive</span></li>
                 </ul>

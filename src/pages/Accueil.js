@@ -8,9 +8,9 @@ const Accueil = () => {
             <div className="acceuilContent">
                 <div className="content">
                     <h1>Dylan Couillet</h1>
-                    <h2>Développeur MERN</h2>
+                    <h2>Développeur</h2>
                     <div className="pdf">
-                        <a href="./media/CV.pdf" target="_blank" rel="noopener noreferrer">Télécharger cv</a>
+                        <a href="../../src/media/cv_dylan_couillet.pdf" target="_blank" rel="noopener noreferrer">Télécharger cv</a>
                     </div>
                 </div>
             </div>

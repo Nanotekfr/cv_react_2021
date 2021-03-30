@@ -7,7 +7,7 @@ const Navigation = () => {
         <div className="sidebar">
             <div className="id">
                 <div className="idContent">
-                    <img src="./media/pp.png" alt="Profil"/>
+                    <img src="../media/photo_profil.png" alt="Profil"/>
                 </div>
             </div>
 
@@ -43,15 +43,15 @@ const Navigation = () => {
         <div className="socialNetwork">
             <ul>
                 <li>
-                    <a href="https://github.com/Nanotekfr" target="_blank"
-                    rel="noopener noreferrer" >
-                        <i className="fab fa-github"></i>
-                    </a>
-                </li>
-                <li>
                     <a href="https://www.linkedin.com/in/dylan-couillet/" target="_blank"
                     rel="noopener noreferrer" >
                         <i className="fab fa-linkedin"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/Nanotekfr" target="_blank"
+                    rel="noopener noreferrer" >
+                        <i className="fab fa-github"></i>
                     </a>
                 </li>
                 <li>
