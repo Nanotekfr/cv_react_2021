@@ -15,7 +15,7 @@ export const portfolioData = [
         langages: ['html','javascript','css'],
         langagesIcons: ['fab fa-js','fab fa-css3'],
         source: '#',
-        info: 'Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.',
+        info: '',
         picture: 'https://via.placeholder.com/300.png/09f/fff'
     },
     {
@@ -24,7 +24,7 @@ export const portfolioData = [
         langages: ['javascript','css'],
         langagesIcons: ['fab fa-js','fab fa-css3'],
         source: '#',
-        info: 'Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.',
+        info: '',
         picture: 'https://via.placeholder.com/300.png/09f/fff'
     },
     {
@@ -33,7 +33,7 @@ export const portfolioData = [
         langages: ['javascript','css'],
         langagesIcons: ['fab fa-js','fab fa-css3'],
         source: '#',
-        info: 'Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.',
+        info: '',
         picture: 'https://via.placeholder.com/300.png/09f/fff'
     },
     {
@@ -42,7 +42,7 @@ export const portfolioData = [
         langages: ['javascript','css'],
         langagesIcons: ['fab fa-js','fab fa-css3'],
         source: '#',
-        info: 'Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.',
+        info: '',
         picture: 'https://via.placeholder.com/300.png/09f/fff'
     },
     {
@@ -51,7 +51,7 @@ export const portfolioData = [
         langages: ['javascript','css'],
         langagesIcons: ['fab fa-js','fab fa-css3'],
         source: '#',
-        info: 'Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.Id aliqua elit incididunt incididunt excepteur tempor reprehenderit. Nulla deserunt pariatur deserunt aliquip fugiat amet occaecat enim labore.',
+        info: '',
         picture: 'https://via.placeholder.com/300.png/09f/fff'
     }
 ]
